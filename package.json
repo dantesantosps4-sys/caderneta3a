@@ -12,6 +12,7 @@
     "chart.js": "^4.4.0"
   },
   "devDependencies": {
+    "terser": "^5.47.1",
     "vite": "^5.0.0"
   }
 }
